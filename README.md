@@ -2,7 +2,7 @@
 
 - 🌱 Estudante de Desenvolvimento Web na Laboratoria
 - 📫 Contate me nesse email: dayane.rodrigues_silva@hotmail.com
-- 😄 Pronouns:Ela/Dela
+- 😄 Pronomes:Ela/Dela
 
 <div align="center">
   <a href="https://github.com/dayanersilva">
